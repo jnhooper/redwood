@@ -7,5 +7,26 @@
   },
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#ef793c",
+    "activityBar.activeBorder": "#0a762f",
+    "activityBar.background": "#ef793c",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#0a762f",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#ef793c",
+    "statusBar.background": "#e55b13",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#ef793c",
+    "statusBarItem.remoteBackground": "#e55b13",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#e55b13",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#e55b1399",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  // https://www.canva.com/colors/color-palettes/colored-coolers/
+  "peacock.color": "#E55B13"
 }
